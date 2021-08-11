@@ -2,7 +2,7 @@
 - 👀 I’m interested in python, tensorflow deep leaning and a new program language 
 - 🌱 I’m currently learning python and tensorflow
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me use wuluo929@gmail.com
 
 <!---
 wuluo-bot/wuluo-bot is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
