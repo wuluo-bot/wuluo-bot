@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @wuluo-bot, from china
+- 👋 Hi, I’m @wuluo-bot, from China
 - 👀 I’m interested in python, tensorflow deep leaning and a new program language 
 - 🌱 I’m currently learning python and tensorflow
 - 💞️ I’m looking to collaborate on ...
